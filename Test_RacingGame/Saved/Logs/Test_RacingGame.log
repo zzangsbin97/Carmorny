@@ -31506,3 +31506,13 @@ Sampler Limit: 32
 [2025.06.23-14.50.20:157][429]LogContentValidation: 	/Script/DataValidation.WorldPartitionChangelistValidator
 [2025.06.23-14.50.20:157][429]LogContentValidation: 	/Script/InputBlueprintNodes.EnhancedInputUserWidgetValidator
 [2025.06.23-14.50.20:157][429]AssetCheck: /Game/VehicleTemplate/Maps/VehicleExampleMap Validating asset
+[2025.06.23-14.51.27:873][438]LogContentBrowser: Deferred new asset folder creation: NewFolder
+[2025.06.23-14.51.27:898][438]LogContentBrowser: Creating deferred item: NewFolder
+[2025.06.23-14.51.27:907][439]LogContentBrowser: Renaming the item being created (Deferred Item: NewFolder).
+[2025.06.23-14.51.29:767][551]LogContentBrowser: Attempting asset rename: NewFolder -> OJH
+[2025.06.23-14.51.29:767][551]LogContentBrowser: End creating deferred item NewFolder
+[2025.06.23-14.51.31:489][653]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2025.06.23-14.51.31:567][653]LogUObjectHash: Compacting FUObjectHashTables data took   0.93ms
+[2025.06.23-14.51.31:591][653]LogUObjectHash: Compacting FUObjectHashTables data took   0.57ms
+[2025.06.23-14.51.31:613][653]LogUObjectHash: Compacting FUObjectHashTables data took   0.56ms
+[2025.06.23-14.51.31:623][653]LogFileHelpers: InternalPromptForCheckoutAndSave took 133.722 ms (total: 4.09 sec)
