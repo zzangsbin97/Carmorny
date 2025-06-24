@@ -72,3 +72,8 @@ Plugins/*/Intermediate/*
 
 # Cache files for the editor to use
 DerivedDataCache/*
+
+/Content/Cinematic_Earth/Textures/Clouds/A/T_Clouds_Normal_A.uasset
+/Content/Cinematic_Earth/Textures/Moon/2K/T_Moon_Displacement.uasset
+Test_RacingGame/Content/Cinematic_Earth/Textures/Clouds/A/T_Clouds_Normal_A.uasset
+Test_RacingGame/Content/Cinematic_Earth/Textures/Moon/2K/T_Moon_Displacement.uasset
